@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RelativeSiair</string>
+    <string-array name="arr_nama">
+        <item>Nissan Fairlady</item>
+        <item>toyota Supra</item>
+        <item>Mitsubishi Lancer</item>
+        <item>Subaru WRX STI</item>
+        <item>Tommy Kaira Z1</item>
+    </string-array>
 </resources>
